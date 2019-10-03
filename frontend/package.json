@@ -1,0 +1,14 @@
+{
+  "name": "marcel-plugin-iframe",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "scripts": {
+    "start": "serve -s"
+  },
+  "dependencies": {
+    "marcel-plugin": "^1.0.0"
+  },
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}

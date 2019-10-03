@@ -1,0 +1,15 @@
+{
+  "name": "MarcelPluginIframe",
+  "description": "Displays a web page",
+  "eltName": "marcel-plugin-iframe",
+  "icon": "picture_in_picture_alt",
+  "frontend": {
+    "props": [
+      {
+        "name": "src",
+        "description": "URL of the web page to display",
+        "type": "string"
+      }
+    ]
+  }
+}
